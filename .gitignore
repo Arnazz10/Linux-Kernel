@@ -1,0 +1,31 @@
+# Kernel module build artifacts
+*.ko
+*.o
+*.mod.c
+*.mod.o
+*.order
+*.symvers
+
+# Kernel build system files
+.modules.order.cmd
+.modules.cmd
+.tmp_versions/
+Module.symvers
+modules.order
+
+# Temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# Editor directories
+.vscode/
+.idea/
