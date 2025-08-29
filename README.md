@@ -1,4 +1,4 @@
-# Linux Kernel Module - Hello Kernel
+# Linux Kernel Module - Hello Kernel :
 
 A simple Linux Kernel Module (LKM) that demonstrates basic kernel module development concepts including initialization, cleanup, and proper logging.
 
