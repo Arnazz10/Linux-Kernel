@@ -236,7 +236,7 @@ Feel free to submit issues, feature requests, or pull requests to improve this k
 
 * [Linux Kernel Module Programming Guide](https://tldp.org/LDP/lkmpg/2.6/html/)
 * [Linux Device Drivers, 3rd Edition](https://lwn.net/Kernel/LDD3/)
-* [Kernel Newbies]
+* [Kernel Newbies](https://kernelnewbies.org/)
 
 ## Author
 
