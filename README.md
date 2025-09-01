@@ -24,7 +24,7 @@ Before building and running this kernel module, ensure you have:
    sudo apt-get install build-essential
    ```
 
-3. **Git**: For version control (if not already installed)
+3. **Git**: For version control (if not already installed in it)
    ```bash
    sudo apt-get install git
    ```
