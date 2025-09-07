@@ -4,7 +4,7 @@ A simple Linux Kernel Module (LKM) that demonstrates basic kernel module develop
 
 ## Features
 
-* **Module Initialization**: Prints "Hello, Kernel!" when loaded
+* **Module Initialization**: Prints "Hello, Kernel!" 
 * **Module Cleanup**: Prints "Goodbye, Kernel!" when unloaded
 * **Proper Logging**: Uses `printk` with appropriate log levels (`KERN_INFO`)
 * **Kernel Coding Style**: Follows Linux kernel coding conventions
